@@ -1,6 +1,8 @@
 ### Hi there 👋👋👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinnoLn&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ok373737)](https://solved.ac/ok373737/)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinnoLn&layout=compact&theme=dracula) --> 
 
