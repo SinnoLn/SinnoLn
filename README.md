@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinnoLn&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinnoLn&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinnoLn&layout=compact&theme=dracula) -->
 </br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiny_0609)](https://solved.ac/jiny_0609/)
 
