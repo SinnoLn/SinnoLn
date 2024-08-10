@@ -1,8 +1,8 @@
 ### Hi there 👋👋👋
 
+<a href="https://github.com/SinnoLn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SinnoLn&show_icons=true&include_all_commits=true&theme=dracula" alt="SinnoLn's github stats" /></a>
+<a href="https://github.com/SinnoLn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinnoLn&layout=compact&theme=dracula&hide=jupyter%20notebook" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinnoLn&show_icons=true&theme=dracula)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinnoLn&layout=compact&theme=dracula) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiny_0609)](https://solved.ac/jiny_0609/)
 
 <!--
