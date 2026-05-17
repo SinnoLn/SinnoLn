@@ -70,12 +70,11 @@
 <p align="left">
   <img
     src="https://streak-stats.demolab.com?user=SinnoLn&theme=default&background=FFFFFF&border=EADFF2&ring=F2C6DE&fire=F7C8A4&currStreakLabel=8EC5FC&sideLabels=7DCFB6&dates=A0A0A0"
-    height="165"
+    width="49%"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://leetcard.jacoblin.cool/SinnoLn?theme=light&font=Noto%20Sans%20KR&ext=contest"
-    height="165"
+    width="49%"
   />
 </p>
 
