@@ -28,10 +28,10 @@
 
 ## 📚 Learning
 
-- **2026 Google Cloud Study Jam** (2026.04 ~ 2026.06)  
+**2026 Google Cloud Study Jam** (2026.04 ~ 2026.06)  
   <img src="https://img.shields.io/badge/Google_Cloud_Study_Jam-16_Badges_Earned-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 
-- **Currently Learning**  
+**Currently Learning**  
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 <br/>
