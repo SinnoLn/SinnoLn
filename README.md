@@ -29,10 +29,11 @@
 ## 📚 Learning
 
 **2026 Google Cloud Study Jam** (2026.04 ~ 2026.06)  
-  <img src="https://img.shields.io/badge/Google_Cloud_Study_Jam-16_Badges_Earned-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Google_Cloud_Study_Jam-16_Badges_Earned-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 
-**Currently Learning**  
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+**Currently Learning** 
+- <img src="https://img.shields.io/badge/Architecture-Hexagonal-0077B6?style=flat-square&logo=diagram&logoColor=white"/> <img src="https://img.shields.io/badge/Pattern-Event--Driven-0096C7?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Structure-Multi--Module-03045E?style=flat-square"/>
+- <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Observability-Prometheus_/_Loki_/_Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 <br/>
 
@@ -58,6 +59,9 @@
 
 #### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+#### Architecture & Patterns
+<img src="https://img.shields.io/badge/Architecture-Layered-333333?style=flat-square"/> <img src="https://img.shields.io/badge/Pattern-DDD_/_Domain--Centric-4A5568?style=flat-square"/> <img src="https://img.shields.io/badge/Structure-Modular_Monolith-1A202C?style=flat-square"/>
 
 #### Infrastructure & DevOps
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
