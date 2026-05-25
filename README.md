@@ -4,9 +4,20 @@
 
 안정적인 백엔드 아키텍처와 클라우드/인프라 운영에 관심이 많습니다
 
+<br/>
+
+## Activity
+
+- **YAPP 28th Server** (2026.05 ~ ing)
+- **KT AIVLE 8th** (2025.09 ~ 2026.03)
+- **2025 OCSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
+- **2025 오픈소스 개발자대회** (2025.07 ~ 2025.12)
+- **2024 OCSSCA Loxilb 체험형 멘티** (2024.09 ~ 2024.10)
+- **ICCAS 2024** (2024.04 ~ 2024.08)
+
 <!-- <br/>
 
-## Activity & Awards
+## Activity & Awards (상세 버전)
 
 - <img src="https://github.com/YAPP-Github.png" height="20" align="CENTER"/> **YAPP 28th Server** (2026.05 ~ ing)
 - <img src="https://github.com/user-attachments/assets/52e200ff-a28f-4e44-9d91-6de181e3f957" height="20" align="CENTER"/> **KT AIVLE 8th** (2025.09 ~ 2026.03)
