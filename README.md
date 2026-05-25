@@ -10,9 +10,9 @@
 
 - **YAPP 28th Server** (2026.05 ~ ing)
 - **KT AIVLE 8th** (2025.09 ~ 2026.03)
-- **2025 OCSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
+- **2025 OSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
 - **2025 오픈소스 개발자대회** (2025.07 ~ 2025.12)
-- **2024 OCSSCA Loxilb 체험형 멘티** (2024.09 ~ 2024.10)
+- **2024 OSSCA Loxilb 체험형 멘티** (2024.09 ~ 2024.10)
 - **ICCAS 2024** (2024.04 ~ 2024.08)
 
 <!-- <br/>
@@ -21,9 +21,9 @@
 
 - <img src="https://github.com/YAPP-Github.png" height="20" align="CENTER"/> **YAPP 28th Server** (2026.05 ~ ing)
 - <img src="https://github.com/user-attachments/assets/52e200ff-a28f-4e44-9d91-6de181e3f957" height="20" align="CENTER"/> **KT AIVLE 8th** (2025.09 ~ 2026.03)
-- <img src="https://github.com/user-attachments/assets/81b4a393-79e4-4e5a-b993-5e48f94cd8fb" height="20" align="CENTER"/> <img src="https://github.com/argoproj.png" height="20" align="CENTER"/> **2025 OCSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
+- <img src="https://github.com/user-attachments/assets/81b4a393-79e4-4e5a-b993-5e48f94cd8fb" height="20" align="CENTER"/> <img src="https://github.com/argoproj.png" height="20" align="CENTER"/> **2025 OSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
 - <img src="https://github.com/user-attachments/assets/83ab0e80-25ba-4a5d-9d01-a3060ad328a0" height="20" align="CENTER"/> **2025 오픈소스 개발자대회** (2025.07 ~ 2025.12) - <a href="https://badge.omnione.net/host/api/v2/assertions/dXJuOnV1aWQ6MDE5YjJiMWItZGNmMy03MmJhLTkxMDAtMTNlZmJlMjliNDAw"><img src="https://badge.omnione.net/host/api/v2/assertions/dXJuOnV1aWQ6MDE5YjJiMWItZGNmMy03MmJhLTkxMDAtMTNlZmJlMjliNDAw/image" height="24" style="vertical-align: sub;"/></a> **우수작**
-- <img src="https://github.com/user-attachments/assets/e2ee878b-f083-4491-b4b0-e619740fea85" height="20" align="CENTER"/> <img src="https://github.com/loxilb-io.png" height="20" align="CENTER"/> **2024 OCSSCA Loxilb 체험형 멘티** (2024.09 ~ 2024.10)
+- <img src="https://github.com/user-attachments/assets/e2ee878b-f083-4491-b4b0-e619740fea85" height="20" align="CENTER"/> <img src="https://github.com/loxilb-io.png" height="20" align="CENTER"/> **2024 OSSCA Loxilb 체험형 멘티** (2024.09 ~ 2024.10)
 - <img src="https://img.shields.io/badge/ICCAS-005f73?style=flat-square" height="18" style="vertical-align: middle; margin-bottom: -10px;"/><img src="https://img.shields.io/badge/EKC-ee9b00?style=flat-square" height="18" style="vertical-align: middle; margin-bottom: -2px;"/> **ICCAS 2024** (2024.04 ~ 2024.08) - 🏆 **Silver Award(장려상)** | 지능형 디지털 치료제 AI-SW -->
 
 <br/>
