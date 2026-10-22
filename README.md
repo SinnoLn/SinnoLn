@@ -8,7 +8,7 @@
 
 ## Activity
 
-- **YAPP 28th Server** (2026.05 ~ ing)
+- **YAPP 28th Server** (2026.05 ~ 2026.08)
 - **KT AIVLE 8th** (2025.09 ~ 2026.03)
 - **2025 OSSCA ArgoProj 참여형 멘티** (2025.07 ~ 2025.12)
 - **2025 오픈소스 개발자대회** (2025.07 ~ 2025.12)
@@ -30,7 +30,7 @@
 
 ## Learning
 
-**2026 Google Cloud Study Jam** (2026.04 ~ ing)  
+**2026 Google Cloud Study Jam** (2026.04 ~ 2026.06)  
 
 **Currently Learning** 
 - <img src="https://img.shields.io/badge/Architecture-Hexagonal-0077B6?style=flat-square&logo=diagram&logoColor=white"/> <img src="https://img.shields.io/badge/Structure-Multi--Module-03045E?style=flat-square"/>
